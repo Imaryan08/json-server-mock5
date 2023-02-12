@@ -2,16 +2,24 @@
   "users": [
     {
       "id": 1,
-      "name": "Gertrudis Tatterton",
-      "age": 18,
-      "email": "gtatterton0@ehow.com"
+      "uname": "aryan08",
+      "avatar": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fwww.torontophotographerz.com%2Fwp-content%2Fuploads%2F2017%2F06%2FBusiness-portrait-17-1.jpg%3Ffit%3D800%252C1200%26ssl%3D1&f=1&nofb=1&ipt=90f14ec069f53da4073bbc445a54347963ba7548a74d778c3f39dc7209d7fac1&ipo=images",
+      "email": "gtatterton0@ehow.com",
+      "password": 12345
+    },
+    {
+      "id": 2,
+      "uname": "priya16",
+      "avatar": "https://www.shutterstock.com/image-photo/portrait-confidence-asian-business-women-260nw-1819961540.jpg",
+      "email": "priya@gmail.com",
+      "password": 123456
     }
   ],
 
   "blogs": [
     {
       "id": 1,
-      "username": "coreyschafer",
+      "username": "aryan08",
       "title": "Be Present",
       "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
       "category": "Entertainment",
